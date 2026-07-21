@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "body-parser": "^2.2.2",
+    "body-parser": "^2.3.0",
     "cloudinary": "^2.10.0",
     "cors": "^2.8.6",
     "datauri": "^4.1.0",
